@@ -27,9 +27,13 @@
 
 
 
-    <footer class="bg-dark text-center text-white p-3">
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque officia incidunt iusto mollitia, modi, nemo repellendus possimus hic magni sequi dicta iste voluptatum ab ipsa, obcaecati aut quam. Distinctio, dolorum.</p>
-    </footer>   
+
+    <footer class="bg-dark text-center text-white">
+        &copy; TeamMoms - 2020
+    </footer>
+
+   
+
 
 
 
