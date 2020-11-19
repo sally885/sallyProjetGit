@@ -22,6 +22,10 @@
             <a class="btn btn-dark btn-lg" href="#" role="button">Learn more</a>
         </div>
 
+        <div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus totam libero aliquam provident laborum voluptatibus dolorum dolore ratione harum eos numquam, distinctio, ut rerum explicabo quis corporis perferendis veritatis voluptatum!</p>
+        </div>
+
     </main>
 
 
