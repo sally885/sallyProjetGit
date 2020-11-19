@@ -27,9 +27,9 @@
 
 
 
-    <footer class="bg-dark text-center text-white p-3">
-    &copy; 2020 - Sally Diomande .
-    </footer>   
+    <footer class="bg-dark text-center text-white">
+        &copy; TeamMoms - 2020
+    </footer>
 
 
 
